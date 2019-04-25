@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+}
+
+body{
+    font-family: Times New Roman; 
+    background-color:papayawhip;
+}
+img{
+    margin: 5px;
+    border-radius:3%;
+    float:none;
+    width: 500px; 
+}
+h2{
+    font-size:20px;
+    
+}
+a:hover{
+    color: crimson;
+}
+table {
+    
+    border: 0.3
+}
+th{
+    column-span:2; 
+}
